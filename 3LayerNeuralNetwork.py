@@ -1,4 +1,5 @@
 # this is a 3 layer neural network
+# why 3 layers? 1st layer will combine the inputs, the 2nd will map them to the output and uses the 1st layer output as the inputs
 
 import numpy as np
 
